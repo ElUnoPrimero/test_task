@@ -475,6 +475,7 @@ img{
 }
 .feedback_col{
     flex: 0 1 33.333%;
+    max-width: 33.333%;
     padding: 0 25px;
     margin: 20px 0; 
 }
